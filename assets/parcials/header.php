@@ -1,11 +1,13 @@
 <header>
-<div class="top-bar"><div class="buttons">
-	<a class="selected" href="">Home</a>
-	<a href="">Get started</a>
-	<a href="">Scaffolding</a>
-	<a href="">Base CSS</a>
-	<a href="">Components</a>
-	<a href="https:/www.google.com">Javascript</a>
-	<a href="">Customize</a>
-</div></div>
+	<nav>
+		<ul>
+			<li id="selected"><a href="">Home</a></li>
+			<li><a href="#">Get started</a></li>
+			<li><a href="#">Scaffolding</a></li>
+			<li><a href="#">Base CSS</a></li>
+			<li><a href="#">Components</a></li>
+			<li><a href="https:/www.google.com">Javascript</a></li>
+			<li><a href="#">Customize</a></li>
+		</ul>
+	</nav>
 </header>	
